@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adrian7769&show_icons=true&locale=en" alt="adrian7769" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian7769&" alt="adrian7769" />
 </div>
 
 <h3 align="center"> Here is a little more about what me!</h3>
