@@ -6,7 +6,7 @@
 
 <h3 align="center"> Here is a little more about what me!</h3>
 
-- 🧑‍💻 I'm A **Self Taught** Aspiring Software Engineer!
+- 🧑‍💻 I'm **Self Taught** and Always Seeking Improvement!
 - 🐍 I’m Currently Working On **A RaspberryPi Trading Algorithm**
 - 🚀 I'm Currently Running and Growing [**ScottsdaleLights**](https://www.scottsdallights.com)
 - 🚧 I'm Currently Building A **Custom CRM And Inventory Manager** For Service Businesses
